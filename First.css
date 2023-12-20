@@ -1,0 +1,66 @@
+body {
+    background-image: url(https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTEwL3JtNDY3YmF0Y2g1LXNjZW5lLWgtMDA1Yy14LmpwZw.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+.login-form {
+    color: black;
+    font-size: 20px;
+    font-family: 'poppins', sans-serif;
+    margin-top: 109px;
+    border: 1px solid black; 
+    background-color: rgba(0, 0, 0, 0);
+    padding-top: 40px;
+    padding-bottom: 60px;
+    justify-content: space-between;
+    margin-left: 370px;
+    border-radius: 100px;
+    cursor: pointer;
+    height: 320x;
+    width: 480px;
+    margin-left: 400px;
+    box-shadow: 4px 4px 10px 4px;
+}
+#username {
+    padding: 5px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+#password {
+    padding: 5px;
+    border-radius: 10px; 
+    border: none;
+    cursor: pointer;
+}
+.login-btn {
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 13px;
+    border: none;
+    background-color: antiquewhite;
+    cursor: pointer;
+}
+.login-btn:hover {
+    background-color: #081b29;
+    
+}
+.btn-box {
+    display: inline-block;
+    padding: 10px;
+    border-radius: 30px;
+    font-size: 15px;
+    color: #081b29;
+    letter-spacing: 1px;
+    text-decoration: none;
+    font-weight: 10;
+    cursor: pointer;
+}
+.btn-box:hover {
+    color: #081b29;
+}
+h1 {
+    color: black;    
+}
